@@ -6,5 +6,5 @@ arr.forEach(console.log)
 
 // alert는 webapi에서만 동작
 // arr.forEach(alert)
-console.log("d야야야")
+console.log("야야야")
 
