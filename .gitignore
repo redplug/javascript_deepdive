@@ -89,3 +89,6 @@ lerna-debug.log
 # System Files
 .DS_Store
 Thumbs.db
+
+# custom
+readme_sample.md
